@@ -1,3 +1,3 @@
 # Fitness-App
 
-![alt text](images/FitnessLog1.png)
+![alt text](Fitness/images/FitnessLog1.png)
